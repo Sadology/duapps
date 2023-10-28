@@ -1,16 +1,15 @@
 # duapps
 
-A new Flutter project.
+Im a Student of University of Dhaka. We have a Du apps which is appearently made of Flutter, So i decided to copy and recreate the main page of our Apps.
 
-## Getting Started
+## Introduction
 
-This project is a starting point for a Flutter application.
+This project is preview only.
 
-A few resources to get you started if this is your first Flutter project:
+## Preview
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Main Page
+![preview one](/lib/assets/preview_one.png)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Drawer
+![preview one](/lib/assets/preview_two.png)
